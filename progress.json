@@ -1,8 +1,9 @@
 {
   "completedTopics": [
-    "cloud-computing"
+    "cloud-computing",
+    "iam"
   ],
-  "lastTopic": "cloud-computing",
+  "lastTopic": "iam",
   "lastCommit": "2026-07-12",
   "totalTopics": 43,
   "enhancementCycles": 0
