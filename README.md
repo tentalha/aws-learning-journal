@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 3 |
-| **Remaining** | 40 |
-| **Progress** | 7% |
+| **Completed** | 4 |
+| **Remaining** | 39 |
+| **Progress** | 9% |
 | **Enhancement Cycles** | 0 |
 | **Last Updated** | 2026-07-12 |
 
 ### Progress Bar
 
 ```
-█░░░░░░░░░░░░░░░░░░░ 7%
+██░░░░░░░░░░░░░░░░░░ 9%
 ```
 
 ---
@@ -29,10 +29,10 @@
 - [x] [Cloud Computing](topics/cloud-computing/notes.md)
 - [x] [IAM](topics/iam/notes.md)
 - [x] [EC2](topics/ec2/notes.md)
+- [x] [Auto Scaling](topics/auto-scaling/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] Auto Scaling
 - [ ] Load Balancer
 - [ ] VPC
 - [ ] Route53
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-12 | ec2 | Latest |
+| 2026-07-12 | auto-scaling | Latest |
 
 ---
 

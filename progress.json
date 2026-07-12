@@ -2,9 +2,10 @@
   "completedTopics": [
     "cloud-computing",
     "iam",
-    "ec2"
+    "ec2",
+    "auto-scaling"
   ],
-  "lastTopic": "ec2",
+  "lastTopic": "auto-scaling",
   "lastCommit": "2026-07-12",
   "totalTopics": 43,
   "enhancementCycles": 0
