@@ -4,9 +4,10 @@
     "iam",
     "ec2",
     "auto-scaling",
-    "load-balancer"
+    "load-balancer",
+    "vpc"
   ],
-  "lastTopic": "load-balancer",
+  "lastTopic": "vpc",
   "lastCommit": "2026-07-13",
   "totalTopics": 43,
   "enhancementCycles": 0
