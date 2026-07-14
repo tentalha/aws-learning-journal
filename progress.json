@@ -5,10 +5,11 @@
     "ec2",
     "auto-scaling",
     "load-balancer",
-    "vpc"
+    "vpc",
+    "route53"
   ],
-  "lastTopic": "vpc",
-  "lastCommit": "2026-07-13",
+  "lastTopic": "route53",
+  "lastCommit": "2026-07-14",
   "totalTopics": 43,
   "enhancementCycles": 0
 }
