@@ -6,9 +6,10 @@
     "auto-scaling",
     "load-balancer",
     "vpc",
-    "route53"
+    "route53",
+    "cloudfront"
   ],
-  "lastTopic": "route53",
+  "lastTopic": "cloudfront",
   "lastCommit": "2026-07-14",
   "totalTopics": 43,
   "enhancementCycles": 0

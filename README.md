@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 7 |
-| **Remaining** | 36 |
-| **Progress** | 16% |
+| **Completed** | 8 |
+| **Remaining** | 35 |
+| **Progress** | 19% |
 | **Enhancement Cycles** | 0 |
 | **Last Updated** | 2026-07-14 |
 
 ### Progress Bar
 
 ```
-███░░░░░░░░░░░░░░░░░ 16%
+████░░░░░░░░░░░░░░░░ 19%
 ```
 
 ---
@@ -33,10 +33,10 @@
 - [x] [Load Balancer](topics/load-balancer/notes.md)
 - [x] [VPC](topics/vpc/notes.md)
 - [x] [Route53](topics/route53/notes.md)
+- [x] [CloudFront](topics/cloudfront/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] CloudFront
 - [ ] S3
 - [ ] EBS
 - [ ] EFS
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-14 | route53 | Latest |
+| 2026-07-14 | cloudfront | Latest |
 
 ---
 
