@@ -8,9 +8,10 @@
     "vpc",
     "route53",
     "cloudfront",
-    "s3"
+    "s3",
+    "ebs"
   ],
-  "lastTopic": "s3",
+  "lastTopic": "ebs",
   "lastCommit": "2026-07-15",
   "totalTopics": 43,
   "enhancementCycles": 0
