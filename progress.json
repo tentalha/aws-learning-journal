@@ -9,10 +9,11 @@
     "route53",
     "cloudfront",
     "s3",
-    "ebs"
+    "ebs",
+    "efs"
   ],
-  "lastTopic": "ebs",
-  "lastCommit": "2026-07-15",
+  "lastTopic": "efs",
+  "lastCommit": "2026-07-16",
   "totalTopics": 43,
   "enhancementCycles": 0
 }
