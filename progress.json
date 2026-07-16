@@ -10,9 +10,10 @@
     "cloudfront",
     "s3",
     "ebs",
-    "efs"
+    "efs",
+    "rds"
   ],
-  "lastTopic": "efs",
+  "lastTopic": "rds",
   "lastCommit": "2026-07-16",
   "totalTopics": 43,
   "enhancementCycles": 0

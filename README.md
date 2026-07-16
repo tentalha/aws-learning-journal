@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 11 |
-| **Remaining** | 32 |
-| **Progress** | 26% |
+| **Completed** | 12 |
+| **Remaining** | 31 |
+| **Progress** | 28% |
 | **Enhancement Cycles** | 0 |
 | **Last Updated** | 2026-07-16 |
 
 ### Progress Bar
 
 ```
-█████░░░░░░░░░░░░░░░ 26%
+██████░░░░░░░░░░░░░░ 28%
 ```
 
 ---
@@ -37,10 +37,10 @@
 - [x] [S3](topics/s3/notes.md)
 - [x] [EBS](topics/ebs/notes.md)
 - [x] [EFS](topics/efs/notes.md)
+- [x] [RDS](topics/rds/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] RDS
 - [ ] Aurora
 - [ ] DynamoDB
 - [ ] Lambda
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-16 | efs | Latest |
+| 2026-07-16 | rds | Latest |
 
 ---
 
