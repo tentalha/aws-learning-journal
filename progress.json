@@ -12,9 +12,10 @@
     "ebs",
     "efs",
     "rds",
-    "aurora"
+    "aurora",
+    "dynamodb"
   ],
-  "lastTopic": "aurora",
+  "lastTopic": "dynamodb",
   "lastCommit": "2026-07-17",
   "totalTopics": 43,
   "enhancementCycles": 0
