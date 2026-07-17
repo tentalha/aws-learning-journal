@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 12 |
-| **Remaining** | 31 |
-| **Progress** | 28% |
+| **Completed** | 13 |
+| **Remaining** | 30 |
+| **Progress** | 30% |
 | **Enhancement Cycles** | 0 |
-| **Last Updated** | 2026-07-16 |
+| **Last Updated** | 2026-07-17 |
 
 ### Progress Bar
 
 ```
-██████░░░░░░░░░░░░░░ 28%
+██████░░░░░░░░░░░░░░ 30%
 ```
 
 ---
@@ -38,10 +38,10 @@
 - [x] [EBS](topics/ebs/notes.md)
 - [x] [EFS](topics/efs/notes.md)
 - [x] [RDS](topics/rds/notes.md)
+- [x] [Aurora](topics/aurora/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] Aurora
 - [ ] DynamoDB
 - [ ] Lambda
 - [ ] API Gateway
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-16 | rds | Latest |
+| 2026-07-17 | aurora | Latest |
 
 ---
 
@@ -130,4 +130,4 @@ This project is for personal learning purposes.
 
 ---
 
-_Last auto-generated on 2026-07-16_
+_Last auto-generated on 2026-07-17_
