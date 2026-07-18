@@ -13,10 +13,11 @@
     "efs",
     "rds",
     "aurora",
-    "dynamodb"
+    "dynamodb",
+    "lambda"
   ],
-  "lastTopic": "dynamodb",
-  "lastCommit": "2026-07-17",
+  "lastTopic": "lambda",
+  "lastCommit": "2026-07-18",
   "totalTopics": 43,
   "enhancementCycles": 0
 }
