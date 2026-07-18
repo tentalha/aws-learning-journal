@@ -14,9 +14,10 @@
     "rds",
     "aurora",
     "dynamodb",
-    "lambda"
+    "lambda",
+    "api-gateway"
   ],
-  "lastTopic": "lambda",
+  "lastTopic": "api-gateway",
   "lastCommit": "2026-07-18",
   "totalTopics": 43,
   "enhancementCycles": 0
