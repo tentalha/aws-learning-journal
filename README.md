@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 16 |
-| **Remaining** | 27 |
-| **Progress** | 37% |
+| **Completed** | 17 |
+| **Remaining** | 26 |
+| **Progress** | 40% |
 | **Enhancement Cycles** | 0 |
-| **Last Updated** | 2026-07-18 |
+| **Last Updated** | 2026-07-19 |
 
 ### Progress Bar
 
 ```
-███████░░░░░░░░░░░░░ 37%
+████████░░░░░░░░░░░░ 40%
 ```
 
 ---
@@ -42,10 +42,10 @@
 - [x] [DynamoDB](topics/dynamodb/notes.md)
 - [x] [Lambda](topics/lambda/notes.md)
 - [x] [API Gateway](topics/api-gateway/notes.md)
+- [x] [EventBridge](topics/eventbridge/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] EventBridge
 - [ ] SNS
 - [ ] SQS
 - [ ] Step Functions
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-18 | api-gateway | Latest |
+| 2026-07-19 | eventbridge | Latest |
 
 ---
 
@@ -130,4 +130,4 @@ This project is for personal learning purposes.
 
 ---
 
-_Last auto-generated on 2026-07-18_
+_Last auto-generated on 2026-07-19_

@@ -15,10 +15,11 @@
     "aurora",
     "dynamodb",
     "lambda",
-    "api-gateway"
+    "api-gateway",
+    "eventbridge"
   ],
-  "lastTopic": "api-gateway",
-  "lastCommit": "2026-07-18",
+  "lastTopic": "eventbridge",
+  "lastCommit": "2026-07-19",
   "totalTopics": 43,
   "enhancementCycles": 0
 }
