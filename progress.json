@@ -16,9 +16,10 @@
     "dynamodb",
     "lambda",
     "api-gateway",
-    "eventbridge"
+    "eventbridge",
+    "sns"
   ],
-  "lastTopic": "eventbridge",
+  "lastTopic": "sns",
   "lastCommit": "2026-07-19",
   "totalTopics": 43,
   "enhancementCycles": 0

@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 17 |
-| **Remaining** | 26 |
-| **Progress** | 40% |
+| **Completed** | 18 |
+| **Remaining** | 25 |
+| **Progress** | 42% |
 | **Enhancement Cycles** | 0 |
 | **Last Updated** | 2026-07-19 |
 
 ### Progress Bar
 
 ```
-████████░░░░░░░░░░░░ 40%
+████████░░░░░░░░░░░░ 42%
 ```
 
 ---
@@ -43,10 +43,10 @@
 - [x] [Lambda](topics/lambda/notes.md)
 - [x] [API Gateway](topics/api-gateway/notes.md)
 - [x] [EventBridge](topics/eventbridge/notes.md)
+- [x] [SNS](topics/sns/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] SNS
 - [ ] SQS
 - [ ] Step Functions
 - [ ] CloudWatch
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-19 | eventbridge | Latest |
+| 2026-07-19 | sns | Latest |
 
 ---
 
