@@ -18,9 +18,10 @@
     "api-gateway",
     "eventbridge",
     "sns",
-    "sqs"
+    "sqs",
+    "step-functions"
   ],
-  "lastTopic": "sqs",
+  "lastTopic": "step-functions",
   "lastCommit": "2026-07-20",
   "totalTopics": 43,
   "enhancementCycles": 0

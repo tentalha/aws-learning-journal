@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 19 |
-| **Remaining** | 24 |
-| **Progress** | 44% |
+| **Completed** | 20 |
+| **Remaining** | 23 |
+| **Progress** | 47% |
 | **Enhancement Cycles** | 0 |
 | **Last Updated** | 2026-07-20 |
 
 ### Progress Bar
 
 ```
-█████████░░░░░░░░░░░ 44%
+█████████░░░░░░░░░░░ 47%
 ```
 
 ---
@@ -45,10 +45,10 @@
 - [x] [EventBridge](topics/eventbridge/notes.md)
 - [x] [SNS](topics/sns/notes.md)
 - [x] [SQS](topics/sqs/notes.md)
+- [x] [Step Functions](topics/step-functions/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] Step Functions
 - [ ] CloudWatch
 - [ ] CloudTrail
 - [ ] Secrets Manager
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-20 | sqs | Latest |
+| 2026-07-20 | step-functions | Latest |
 
 ---
 
