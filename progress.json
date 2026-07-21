@@ -19,10 +19,11 @@
     "eventbridge",
     "sns",
     "sqs",
-    "step-functions"
+    "step-functions",
+    "cloudwatch"
   ],
-  "lastTopic": "step-functions",
-  "lastCommit": "2026-07-20",
+  "lastTopic": "cloudwatch",
+  "lastCommit": "2026-07-21",
   "totalTopics": 43,
   "enhancementCycles": 0
 }
