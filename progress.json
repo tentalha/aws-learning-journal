@@ -20,9 +20,10 @@
     "sns",
     "sqs",
     "step-functions",
-    "cloudwatch"
+    "cloudwatch",
+    "cloudtrail"
   ],
-  "lastTopic": "cloudwatch",
+  "lastTopic": "cloudtrail",
   "lastCommit": "2026-07-21",
   "totalTopics": 43,
   "enhancementCycles": 0

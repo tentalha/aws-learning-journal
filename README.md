@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 21 |
-| **Remaining** | 22 |
-| **Progress** | 49% |
+| **Completed** | 22 |
+| **Remaining** | 21 |
+| **Progress** | 51% |
 | **Enhancement Cycles** | 0 |
 | **Last Updated** | 2026-07-21 |
 
 ### Progress Bar
 
 ```
-██████████░░░░░░░░░░ 49%
+██████████░░░░░░░░░░ 51%
 ```
 
 ---
@@ -47,10 +47,10 @@
 - [x] [SQS](topics/sqs/notes.md)
 - [x] [Step Functions](topics/step-functions/notes.md)
 - [x] [CloudWatch](topics/cloudwatch/notes.md)
+- [x] [CloudTrail](topics/cloudtrail/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] CloudTrail
 - [ ] Secrets Manager
 - [ ] Parameter Store
 - [ ] KMS
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-21 | cloudwatch | Latest |
+| 2026-07-21 | cloudtrail | Latest |
 
 ---
 
