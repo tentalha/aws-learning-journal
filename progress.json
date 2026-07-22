@@ -21,10 +21,11 @@
     "sqs",
     "step-functions",
     "cloudwatch",
-    "cloudtrail"
+    "cloudtrail",
+    "secrets-manager"
   ],
-  "lastTopic": "cloudtrail",
-  "lastCommit": "2026-07-21",
+  "lastTopic": "secrets-manager",
+  "lastCommit": "2026-07-22",
   "totalTopics": 43,
   "enhancementCycles": 0
 }
