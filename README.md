@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 24 |
-| **Remaining** | 19 |
-| **Progress** | 56% |
+| **Completed** | 25 |
+| **Remaining** | 18 |
+| **Progress** | 58% |
 | **Enhancement Cycles** | 0 |
 | **Last Updated** | 2026-07-23 |
 
 ### Progress Bar
 
 ```
-███████████░░░░░░░░░ 56%
+████████████░░░░░░░░ 58%
 ```
 
 ---
@@ -50,10 +50,10 @@
 - [x] [CloudTrail](topics/cloudtrail/notes.md)
 - [x] [Secrets Manager](topics/secrets-manager/notes.md)
 - [x] [Parameter Store](topics/parameter-store/notes.md)
+- [x] [KMS](topics/kms/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] KMS
 - [ ] ECS
 - [ ] EKS
 - [ ] Fargate
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-23 | parameter-store | Latest |
+| 2026-07-23 | kms | Latest |
 
 ---
 
