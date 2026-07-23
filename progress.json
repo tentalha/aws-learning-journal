@@ -22,10 +22,11 @@
     "step-functions",
     "cloudwatch",
     "cloudtrail",
-    "secrets-manager"
+    "secrets-manager",
+    "parameter-store"
   ],
-  "lastTopic": "secrets-manager",
-  "lastCommit": "2026-07-22",
+  "lastTopic": "parameter-store",
+  "lastCommit": "2026-07-23",
   "totalTopics": 43,
   "enhancementCycles": 0
 }

@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 23 |
-| **Remaining** | 20 |
-| **Progress** | 53% |
+| **Completed** | 24 |
+| **Remaining** | 19 |
+| **Progress** | 56% |
 | **Enhancement Cycles** | 0 |
-| **Last Updated** | 2026-07-22 |
+| **Last Updated** | 2026-07-23 |
 
 ### Progress Bar
 
 ```
-███████████░░░░░░░░░ 53%
+███████████░░░░░░░░░ 56%
 ```
 
 ---
@@ -49,10 +49,10 @@
 - [x] [CloudWatch](topics/cloudwatch/notes.md)
 - [x] [CloudTrail](topics/cloudtrail/notes.md)
 - [x] [Secrets Manager](topics/secrets-manager/notes.md)
+- [x] [Parameter Store](topics/parameter-store/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] Parameter Store
 - [ ] KMS
 - [ ] ECS
 - [ ] EKS
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-22 | secrets-manager | Latest |
+| 2026-07-23 | parameter-store | Latest |
 
 ---
 
@@ -130,4 +130,4 @@ This project is for personal learning purposes.
 
 ---
 
-_Last auto-generated on 2026-07-22_
+_Last auto-generated on 2026-07-23_
