@@ -25,9 +25,10 @@
     "secrets-manager",
     "parameter-store",
     "kms",
-    "ecs"
+    "ecs",
+    "eks"
   ],
-  "lastTopic": "ecs",
+  "lastTopic": "eks",
   "lastCommit": "2026-07-24",
   "totalTopics": 43,
   "enhancementCycles": 0
