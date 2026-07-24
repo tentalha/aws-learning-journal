@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 25 |
-| **Remaining** | 18 |
-| **Progress** | 58% |
+| **Completed** | 26 |
+| **Remaining** | 17 |
+| **Progress** | 60% |
 | **Enhancement Cycles** | 0 |
-| **Last Updated** | 2026-07-23 |
+| **Last Updated** | 2026-07-24 |
 
 ### Progress Bar
 
 ```
-████████████░░░░░░░░ 58%
+████████████░░░░░░░░ 60%
 ```
 
 ---
@@ -51,10 +51,10 @@
 - [x] [Secrets Manager](topics/secrets-manager/notes.md)
 - [x] [Parameter Store](topics/parameter-store/notes.md)
 - [x] [KMS](topics/kms/notes.md)
+- [x] [ECS](topics/ecs/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] ECS
 - [ ] EKS
 - [ ] Fargate
 - [ ] Elastic Beanstalk
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-23 | kms | Latest |
+| 2026-07-24 | ecs | Latest |
 
 ---
 
@@ -130,4 +130,4 @@ This project is for personal learning purposes.
 
 ---
 
-_Last auto-generated on 2026-07-23_
+_Last auto-generated on 2026-07-24_

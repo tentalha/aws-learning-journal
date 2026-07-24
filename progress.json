@@ -24,10 +24,11 @@
     "cloudtrail",
     "secrets-manager",
     "parameter-store",
-    "kms"
+    "kms",
+    "ecs"
   ],
-  "lastTopic": "kms",
-  "lastCommit": "2026-07-23",
+  "lastTopic": "ecs",
+  "lastCommit": "2026-07-24",
   "totalTopics": 43,
   "enhancementCycles": 0
 }
