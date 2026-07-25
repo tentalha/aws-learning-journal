@@ -27,9 +27,10 @@
     "kms",
     "ecs",
     "eks",
-    "fargate"
+    "fargate",
+    "elastic-beanstalk"
   ],
-  "lastTopic": "fargate",
+  "lastTopic": "elastic-beanstalk",
   "lastCommit": "2026-07-25",
   "totalTopics": 43,
   "enhancementCycles": 0
