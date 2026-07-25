@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 27 |
-| **Remaining** | 16 |
-| **Progress** | 63% |
+| **Completed** | 28 |
+| **Remaining** | 15 |
+| **Progress** | 65% |
 | **Enhancement Cycles** | 0 |
-| **Last Updated** | 2026-07-24 |
+| **Last Updated** | 2026-07-25 |
 
 ### Progress Bar
 
 ```
-█████████████░░░░░░░ 63%
+█████████████░░░░░░░ 65%
 ```
 
 ---
@@ -53,10 +53,10 @@
 - [x] [KMS](topics/kms/notes.md)
 - [x] [ECS](topics/ecs/notes.md)
 - [x] [EKS](topics/eks/notes.md)
+- [x] [Fargate](topics/fargate/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] Fargate
 - [ ] Elastic Beanstalk
 - [ ] CodePipeline
 - [ ] CodeBuild
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-24 | eks | Latest |
+| 2026-07-25 | fargate | Latest |
 
 ---
 
@@ -130,4 +130,4 @@ This project is for personal learning purposes.
 
 ---
 
-_Last auto-generated on 2026-07-24_
+_Last auto-generated on 2026-07-25_

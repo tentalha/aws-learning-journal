@@ -26,10 +26,11 @@
     "parameter-store",
     "kms",
     "ecs",
-    "eks"
+    "eks",
+    "fargate"
   ],
-  "lastTopic": "eks",
-  "lastCommit": "2026-07-24",
+  "lastTopic": "fargate",
+  "lastCommit": "2026-07-25",
   "totalTopics": 43,
   "enhancementCycles": 0
 }
