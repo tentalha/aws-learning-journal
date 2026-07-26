@@ -29,9 +29,10 @@
     "eks",
     "fargate",
     "elastic-beanstalk",
-    "codepipeline"
+    "codepipeline",
+    "codebuild"
   ],
-  "lastTopic": "codepipeline",
+  "lastTopic": "codebuild",
   "lastCommit": "2026-07-26",
   "totalTopics": 43,
   "enhancementCycles": 0
