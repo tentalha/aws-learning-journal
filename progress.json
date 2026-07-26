@@ -28,10 +28,11 @@
     "ecs",
     "eks",
     "fargate",
-    "elastic-beanstalk"
+    "elastic-beanstalk",
+    "codepipeline"
   ],
-  "lastTopic": "elastic-beanstalk",
-  "lastCommit": "2026-07-25",
+  "lastTopic": "codepipeline",
+  "lastCommit": "2026-07-26",
   "totalTopics": 43,
   "enhancementCycles": 0
 }
