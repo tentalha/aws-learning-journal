@@ -31,9 +31,10 @@
     "elastic-beanstalk",
     "codepipeline",
     "codebuild",
-    "codedeploy"
+    "codedeploy",
+    "cloudformation"
   ],
-  "lastTopic": "codedeploy",
+  "lastTopic": "cloudformation",
   "lastCommit": "2026-07-27",
   "totalTopics": 43,
   "enhancementCycles": 0
