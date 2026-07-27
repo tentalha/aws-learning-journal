@@ -30,10 +30,11 @@
     "fargate",
     "elastic-beanstalk",
     "codepipeline",
-    "codebuild"
+    "codebuild",
+    "codedeploy"
   ],
-  "lastTopic": "codebuild",
-  "lastCommit": "2026-07-26",
+  "lastTopic": "codedeploy",
+  "lastCommit": "2026-07-27",
   "totalTopics": 43,
   "enhancementCycles": 0
 }

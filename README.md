@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 31 |
-| **Remaining** | 12 |
-| **Progress** | 72% |
+| **Completed** | 32 |
+| **Remaining** | 11 |
+| **Progress** | 74% |
 | **Enhancement Cycles** | 0 |
-| **Last Updated** | 2026-07-26 |
+| **Last Updated** | 2026-07-27 |
 
 ### Progress Bar
 
 ```
-██████████████░░░░░░ 72%
+███████████████░░░░░ 74%
 ```
 
 ---
@@ -57,10 +57,10 @@
 - [x] [Elastic Beanstalk](topics/elastic-beanstalk/notes.md)
 - [x] [CodePipeline](topics/codepipeline/notes.md)
 - [x] [CodeBuild](topics/codebuild/notes.md)
+- [x] [CodeDeploy](topics/codedeploy/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] CodeDeploy
 - [ ] CloudFormation
 - [ ] Terraform
 - [ ] Organizations
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-26 | codebuild | Latest |
+| 2026-07-27 | codedeploy | Latest |
 
 ---
 
@@ -130,4 +130,4 @@ This project is for personal learning purposes.
 
 ---
 
-_Last auto-generated on 2026-07-26_
+_Last auto-generated on 2026-07-27_
