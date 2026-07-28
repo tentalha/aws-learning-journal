@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 34 |
-| **Remaining** | 9 |
-| **Progress** | 79% |
+| **Completed** | 35 |
+| **Remaining** | 8 |
+| **Progress** | 81% |
 | **Enhancement Cycles** | 0 |
 | **Last Updated** | 2026-07-28 |
 
 ### Progress Bar
 
 ```
-████████████████░░░░ 79%
+████████████████░░░░ 81%
 ```
 
 ---
@@ -60,10 +60,10 @@
 - [x] [CodeDeploy](topics/codedeploy/notes.md)
 - [x] [CloudFormation](topics/cloudformation/notes.md)
 - [x] [Terraform](topics/terraform/notes.md)
+- [x] [Organizations](topics/organizations/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] Organizations
 - [ ] Control Tower
 - [ ] GuardDuty
 - [ ] Inspector
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-28 | terraform | Latest |
+| 2026-07-28 | organizations | Latest |
 
 ---
 

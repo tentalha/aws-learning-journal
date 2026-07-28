@@ -33,9 +33,10 @@
     "codebuild",
     "codedeploy",
     "cloudformation",
-    "terraform"
+    "terraform",
+    "organizations"
   ],
-  "lastTopic": "terraform",
+  "lastTopic": "organizations",
   "lastCommit": "2026-07-28",
   "totalTopics": 43,
   "enhancementCycles": 0
