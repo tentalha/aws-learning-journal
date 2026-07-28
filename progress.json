@@ -32,10 +32,11 @@
     "codepipeline",
     "codebuild",
     "codedeploy",
-    "cloudformation"
+    "cloudformation",
+    "terraform"
   ],
-  "lastTopic": "cloudformation",
-  "lastCommit": "2026-07-27",
+  "lastTopic": "terraform",
+  "lastCommit": "2026-07-28",
   "totalTopics": 43,
   "enhancementCycles": 0
 }
