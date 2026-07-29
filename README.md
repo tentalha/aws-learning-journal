@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 35 |
-| **Remaining** | 8 |
-| **Progress** | 81% |
+| **Completed** | 36 |
+| **Remaining** | 7 |
+| **Progress** | 84% |
 | **Enhancement Cycles** | 0 |
-| **Last Updated** | 2026-07-28 |
+| **Last Updated** | 2026-07-29 |
 
 ### Progress Bar
 
 ```
-████████████████░░░░ 81%
+█████████████████░░░ 84%
 ```
 
 ---
@@ -61,10 +61,10 @@
 - [x] [CloudFormation](topics/cloudformation/notes.md)
 - [x] [Terraform](topics/terraform/notes.md)
 - [x] [Organizations](topics/organizations/notes.md)
+- [x] [Control Tower](topics/control-tower/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] Control Tower
 - [ ] GuardDuty
 - [ ] Inspector
 - [ ] AWS Config
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-28 | organizations | Latest |
+| 2026-07-29 | control-tower | Latest |
 
 ---
 
@@ -130,4 +130,4 @@ This project is for personal learning purposes.
 
 ---
 
-_Last auto-generated on 2026-07-28_
+_Last auto-generated on 2026-07-29_

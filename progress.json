@@ -34,10 +34,11 @@
     "codedeploy",
     "cloudformation",
     "terraform",
-    "organizations"
+    "organizations",
+    "control-tower"
   ],
-  "lastTopic": "organizations",
-  "lastCommit": "2026-07-28",
+  "lastTopic": "control-tower",
+  "lastCommit": "2026-07-29",
   "totalTopics": 43,
   "enhancementCycles": 0
 }
