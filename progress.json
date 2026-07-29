@@ -35,9 +35,10 @@
     "cloudformation",
     "terraform",
     "organizations",
-    "control-tower"
+    "control-tower",
+    "guardduty"
   ],
-  "lastTopic": "control-tower",
+  "lastTopic": "guardduty",
   "lastCommit": "2026-07-29",
   "totalTopics": 43,
   "enhancementCycles": 0
