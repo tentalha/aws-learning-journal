@@ -37,9 +37,10 @@
     "organizations",
     "control-tower",
     "guardduty",
-    "inspector"
+    "inspector",
+    "aws-config"
   ],
-  "lastTopic": "inspector",
+  "lastTopic": "aws-config",
   "lastCommit": "2026-07-30",
   "totalTopics": 43,
   "enhancementCycles": 0

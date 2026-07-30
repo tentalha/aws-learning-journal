@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 38 |
-| **Remaining** | 5 |
-| **Progress** | 88% |
+| **Completed** | 39 |
+| **Remaining** | 4 |
+| **Progress** | 91% |
 | **Enhancement Cycles** | 0 |
 | **Last Updated** | 2026-07-30 |
 
 ### Progress Bar
 
 ```
-██████████████████░░ 88%
+██████████████████░░ 91%
 ```
 
 ---
@@ -64,10 +64,10 @@
 - [x] [Control Tower](topics/control-tower/notes.md)
 - [x] [GuardDuty](topics/guardduty/notes.md)
 - [x] [Inspector](topics/inspector/notes.md)
+- [x] [AWS Config](topics/aws-config/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] AWS Config
 - [ ] WAF
 - [ ] Shield
 - [ ] Cognito
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-30 | inspector | Latest |
+| 2026-07-30 | aws-config | Latest |
 
 ---
 
