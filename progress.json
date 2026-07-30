@@ -36,10 +36,11 @@
     "terraform",
     "organizations",
     "control-tower",
-    "guardduty"
+    "guardduty",
+    "inspector"
   ],
-  "lastTopic": "guardduty",
-  "lastCommit": "2026-07-29",
+  "lastTopic": "inspector",
+  "lastCommit": "2026-07-30",
   "totalTopics": 43,
   "enhancementCycles": 0
 }
