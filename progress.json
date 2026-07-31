@@ -38,10 +38,11 @@
     "control-tower",
     "guardduty",
     "inspector",
-    "aws-config"
+    "aws-config",
+    "waf"
   ],
-  "lastTopic": "aws-config",
-  "lastCommit": "2026-07-30",
+  "lastTopic": "waf",
+  "lastCommit": "2026-07-31",
   "totalTopics": 43,
   "enhancementCycles": 0
 }

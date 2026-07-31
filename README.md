@@ -10,16 +10,16 @@
 | Metric | Value |
 |--------|-------|
 | **Total Topics** | 43 |
-| **Completed** | 39 |
-| **Remaining** | 4 |
-| **Progress** | 91% |
+| **Completed** | 40 |
+| **Remaining** | 3 |
+| **Progress** | 93% |
 | **Enhancement Cycles** | 0 |
-| **Last Updated** | 2026-07-30 |
+| **Last Updated** | 2026-07-31 |
 
 ### Progress Bar
 
 ```
-██████████████████░░ 91%
+███████████████████░ 93%
 ```
 
 ---
@@ -65,10 +65,10 @@
 - [x] [GuardDuty](topics/guardduty/notes.md)
 - [x] [Inspector](topics/inspector/notes.md)
 - [x] [AWS Config](topics/aws-config/notes.md)
+- [x] [WAF](topics/waf/notes.md)
 
 ## 📋 Pending Topics
 
-- [ ] WAF
 - [ ] Shield
 - [ ] Cognito
 - [ ] Bedrock
@@ -99,7 +99,7 @@ aws-learning-journal/
 
 | Date | Topic | Action |
 |------|-------|--------|
-| 2026-07-30 | aws-config | Latest |
+| 2026-07-31 | waf | Latest |
 
 ---
 
@@ -130,4 +130,4 @@ This project is for personal learning purposes.
 
 ---
 
-_Last auto-generated on 2026-07-30_
+_Last auto-generated on 2026-07-31_
